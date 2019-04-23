@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        body
+        {
+        background-color: green;
+        font-weight: bold;
+        font-family: sans-serif;
+        }
+        h6
+        {
+            background-color: purple;
+            color: lightgreen;
+            font-size: 20px;
+        }
+        h2
+        {
+            background-color: red;
+            color: blue;
+        }
+        h1
+        {
+            background-color: yellow;
+            color: blue;
+        }
+        p
+        {
+            font-style: italic;
+        }
+        
+    </style>
+    <body>
+        
+        <h1>Abdurrahman's blog: The Art of Using Colours to Hurt The Viewers Eyes</h1>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYR_color_wheel.svg/2000px-BYR_color_wheel.svg.png" width = "100">
+        <p>i use color wheel to pick the most vibrant colors</p>
+        <h3>Contents</h3>
+        <ul>
+            <li><a href = "#welcome">Welcome</a></li>
+            <li><a href = "#important">Important</a></li>
+        </ul>
+        
+        <h2 id = "welcome">Welcome</h2>
+        <h6>This is a welcoming to my blog where I will talk about my work on khan academy that I love to work on because learning expands your brain making you into a person who uses their brain.</h6>
+        
+        <p>I made is this far on Khan Academy to the point that I am working on the blog project.</p>
+        
+        <h2 id = "important">Important</h2>
+        <h6>By all means, this is not an art work. This is the bare minimum according to the requirements on khan academy to pass. Making an artwork can be done but is time consuming and proves nothing. This is solely a demonstration that I accessed khan academy, learned the key concepts, and applied them in the manner they wanted me to.</h6>
+        
+        <p>My idea of every single project I do on khan academy is to meet the requirements and demonstrate my learning. Trust me, if you want me to make an artwork, give me 24 hours :)</p>
+        
+        
+    </body>
+</html>
