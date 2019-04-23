@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body{
+            font-family: courier;
+            }
+            a:hover { 
+                background-color: rgb(59, 184, 88);
+            } 
+            a:active {
+                color: rgb(224, 0, 224);
+            }
+            #khan{
+                color: rgb(54, 105, 24);
+            }
+            #khan1{
+                color: rgb(151, 224, 114);
+                background-color: rgb(76, 77, 9);
+            }
+            #khan2{
+                background-color: rgb(143, 230, 145);
+                border-width: 5;
+            }
+            h2.topic{
+                            background: rgb(178,              209, 163);
+            height: 20px;
+            width: 150px;
+            margin: 20px 5px 16px 7px;
+            border: 2px solid rgb(3, 8, 1);
+            padding: 6px;
+            }
+            #t2{
+                margin-bottom: 50px;
+            }
+            #content{
+                background: rgb(135, 232, 135);
+                
+            }
+            h3.headerstyles{
+                color: rgb(255, 255, 255);
+                background: rgb(52, 87, 0);
+            }
+            #block1{
+                background: rgb(149, 209, 119);
+            }
+            #block2
+            {
+                background: rgb(189, 255, 190);
+            }
+        </style>
+    </head>
+    <body>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Khan_Academy_logo.svg/2000px-Khan_Academy_logo.svg.png" width = "300">
+        <div id = "block1">
+        <h1 id = "khan1">You're invited!</h1>
+        <h2 id = "khan2">To come to <span id = "khan">Khan</span> Academy!</h2>
+        
+        
+        <p>Activities:</p>
+        <ul>
+            <li>Learn HTML</li>
+            <li>Learn CSS</li>
+            <li>Discussion of Ways to Further Your Learning</li>
+        </ul>
+        </div>
+        <div id = "block2">
+        <h2 class = "topic"><a href = "#htmlc">Learn HTML</a></h2>
+        <h2 class = "topic"><a href = "#cssc">Learn CSS</a></h2>
+        <h2 class = "topic"><a href = "#furtherc">Further</a></h2>
+        </div>
+        <div id = "content">
+        <h3 class = "headerstyles" id = "htmlc">Learn HTML</h3>
+        <p>This khan academy course gives you the basics of HTML. Complete and work through intro to HTML and learn how to make a page like this one. You will learn, HTML basics, html tags. And you will get to test out the basics to make a poem. Once you create a poem, you will progress onto using emphasis tags to highlight key words. After this you will learn how create a list in HTML and how to load an image to a webpage. Lastly, you will finish off with a challenge in which you will create a page about a trip to an area you liked. </p>
+        <h3 class="headerstyles" id = "cssc">Learn CSS</h3>
+        <p>Once, you complete the basics of HTML, you will progress onto CSS which you can use to style the webpages that you make. The html is the "skeleton" and CSS is the polished flesh. When learning CSS, you will start with the basics. Learn to select by tag name, id, and class. Along the way there will be some challenges and a prject for you to apply your learning. If you are confused about some of the terms, do not worry because you will learn about them if you accept the invitation to Khan Academy.</p>
+        <h3 class="headerstyles" id = "furtherc">Further Your Learning</h3>
+        <p>The next steps once you are done all of these activities is to open a GitHub account and try to use their website hosting services. (You will learn about this in Khan Academy.) </p>
+        </div>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Khan_Academy_logo.svg/2000px-Khan_Academy_logo.svg.png" width = "300">
+    </body>
+</html>
