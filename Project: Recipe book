@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+            #strawberries {
+                background-color: rgb(12, 59, 61);
+            }
+            h1 {
+                color: green;
+                background-color: red;
+            }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Abdurrahman's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-one">Recipe #1:Chocolate Chip Banana Bread</a></li>
+            <li><a href="#recipe-two">Recipe #2: Chocolate Sauce Bread</a></li>
+            <li><a href="#recipe-three">Recipe #3: Fruit Salad</a></li>
+        </ol>
+        
+        <h2 id="recipe-one">Chocolate Chip Banana Bread</h2>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/6/68/Chocolatebrownie.JPG" width = "300">
+        
+        <ul>
+            <li>Time: 3 hours</li>
+            <li>Serves: 10 People</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Chocolate Chips</td>
+                    <td>1 Cup</td>
+                </tr>
+                <tr>
+                    <td>Bananas</td>
+                    <td>2</td>
+                </tr>
+                 <tr>
+                    <td>Flour</td>
+                    <td>4 Cups</td>
+                </tr>
+                 <tr>
+                    <td>Yeast</td>
+                    <td>1 half spoon</td>
+                </tr>
+                <tr>
+                    <td>Milk</td>
+                    <td>Half Cup</td>
+                </tr>
+                <tr>
+                    <td>Water</td>
+                    <td>2 Cups</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Place all ingredients in a bowl.
+</p>
+        <p><strong>Step 2:</strong> Firmly stir for 3 minutes until mixture looks the same throughout.
+</p>
+        <p><strong>Step 3:</strong> Scoop mixture with spoon and place onto baking tray.
+</p>
+       <p><strong>Step 4:</strong> Preheat oven to 450 degrees celcius.
+</p>
+       <p><strong>Step 5:</strong> Bake for 1 hour.
+</p>
+       <p><strong>Step 6:</strong> Safely remove tray from oven and allow for cooling.
+</p>
+    
+    <p>Enjoy delicious banana bread! As stated above this would serve 10 people and if you are making it for yourself, it may last 7 days! If you run out, you can always make more.</p>
+    <h2 id="recipe-two">Chocolate Sauce Bread</h2>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chocolate_syrup_topping_on_ice_cream.JPG/220px-Chocolate_syrup_topping_on_ice_cream.JPG">
+        <ul>
+            <li>Time: Varies</li>
+            <li>Serves: 5</li>
+        </ul>
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Chocolate Chips</td>
+                    <td>1 Cup</td>
+                </tr>
+                <tr>
+                    <td>Condensed Milk</td>
+                    <td>2 Cups</td>
+                </tr>
+                <tr>
+                    <td>Condensed Milk</td>
+                    <td>1 Loaf</td>
+                </tr>
+            </tbody>
+        </table>
+        <p><strong>Step 1:</strong> Place 2 cups of condensed milk into a bowl.</p>
+        <p><strong>Step 2:</strong> Boil 1 cup chocolate chips in a saucepan.</p>
+        <p><strong>Step 3:</strong> Mix chocolate with condensed milk and stir.</p>
+        <p><strong>Step 4:</strong> While mixture is hot, place on bread slices of loaf.</p>
+        <p><strong>Step 5:</strong> Serve!</p>
+        <p>This recipe is really good because of the sauce. The sauce makes the bread taste very sweet and tasty. Make sure you don't eat too much of this type of food because it is a recipe for diabetes.</p>
+<h2 id="recipe-three">Fruit Salad</h2>
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sweet_Summer_Rainbow_Fruit_Salad.jpg/250px-Sweet_Summer_Rainbow_Fruit_Salad.jpg" width = "160">
+            <ul>
+            <li>Time: 1.5 hours</li>
+            <li>Serves: 20 People</li>
+        </ul>
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Blueberries</td>
+                    <td>1 Cup</td>
+                </tr>
+                <tr>
+                    <td>Strawberries</td>
+                    <td>2 Cups</td>
+                </tr>
+                <tr>
+                    <td>Lettuce</td>
+                    <td>1 cup</td>
+                </tr>
+            </tbody>
+        </table>
+        <p id = "strawberries"><strong>Step 1:</strong> Place 2 cups of strawberries into a bowl.</p>
+        <p><strong>Step 2:</strong> Add 1 Cup of lettuce to the mix. </p>
+        <p><strong>Step 3:</strong> Throw in remaining ingredients.</p>
+        <p><strong>Step 4:</strong> Refrigerate to allow for cooling.</p>
+        <p><strong>Step 5:</strong> Serve!</p>
+        <p>This recipe is better than anything your mom ever made and therefore it is time to throw your mom's food into the trash can.</p>
+    <p><em>Source: <a href="http://www.wikipedia.org">Some recipes websites</a></em></p>
+    </body>
+</html>
