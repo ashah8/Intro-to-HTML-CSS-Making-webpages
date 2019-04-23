@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+    h1 {
+        color: orange;
+    }
+    #red-canyon {
+        color: red;
+    }
+    #blue-canyon {
+        color: blue;
+    }
+    .c1{
+        background-color: rgb(64, 54, 4);
+    }
+    </style>
+    <body>
+        <h1>Travel to .... Grand Canyon</h1>
+        <p>This is what you will see and your experience will truly be amazing. I do encourage you to travel down there to the Grand Canyon in the state of Arizona.<br>Here are some images:</p>
+        <h2>You better believe you're seeing these pictures.</h2>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gran_ca%C3%B1on_del_colorado.jpg/1024px-Gran_ca%C3%B1on_del_colorado.jpg" width = "400">
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Toroweap_Sunrise_by_John_Fowler.jpg/220px-Toroweap_Sunrise_by_John_Fowler.jpg">
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Toroweap_Overlook%2C_Arizona.jpg/220px-Toroweap_Overlook%2C_Arizona.jpg">
+        <ul>
+            <li>Make sure you go to the peak of the mountain tops</li>
+            <li>Go camping on a cliff</li>
+            <li>Most importantly enjoy the view!</li>
+        </ul>
+        <p>This is another list of what you should do out there.</p>
+        <ol>
+        <li>sing a song</li>
+        <li>Hike</li>
+        <li>Picnic</li>
+        </ol>
+        <p>Why you need to go there. The <strong><em>Grand Canyon</em></strong> is absolutely amazing!!!!!!!!!!!!!!!!!!!!! The best view and experience of your life.</p>
+        <p>The Grand Canyon provides the reddish orange colour along with the blue sky on a highly non-cloudy day which enhances your experience!!!</p>
+        <p class="c1" id = "red-canyon">The canyon is red.</p>
+        <p class="c1" id = "blue-canyon">Wih a blue sky in the back.</p>
+    </body>
+</html>
